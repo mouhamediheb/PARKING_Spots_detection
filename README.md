@@ -14,6 +14,8 @@ Create a virtual environment to manage dependencies:
 ### 3. Activate the Virtual Environment
 **For Windows:**
 **.venv\Scripts\activate**
+
+
 **For macOS/Linux:**
 **source .venv/bin/activate**
 
